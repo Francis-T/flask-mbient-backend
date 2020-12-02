@@ -1,4 +1,4 @@
-# flask-mbient-backend
+# Flask Mbient Backend
 A simple Flask server backend for interfacing with Mbient on a Raspberry Pi
 
 ### Operating Systems
